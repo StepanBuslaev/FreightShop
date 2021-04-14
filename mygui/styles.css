@@ -15,12 +15,19 @@ html, body {
   border-radius: 10px;
 }
 
-.btn {
-  display: block;
-  background-color: green;
-  color: white;
-  border: none;
-  border-radius: 10px;
-  padding: 10px;
+.total_cost {
   margin: 10px;
+  text-align: center;
+}
+
+.wrapper{
+	display: table;
+  width: 100%;
+  height: 100%;
+}
+.cell{
+	display: table-cell;
+	vertical-align: text-top;
+  text-align: center;
+  width: 50%;
 }
