@@ -5,5 +5,11 @@
 }
 
 .storage_label {
-  font-style: 24px;
+  font-size: 30px;
+  color: green;
+}
+
+.trash_label {
+  font-size: 30px;
+  color: red;
 }
